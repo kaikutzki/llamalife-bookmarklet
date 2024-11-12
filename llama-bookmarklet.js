@@ -1,0 +1,1 @@
+javascript:(function(){window.open('https://llamalife.co/tasks','LlamaLife','width=335,height='+window.screen.height+',left=0,top=0,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes').focus();})();
