@@ -2,7 +2,7 @@
 A bookmarklet to open the Llama Life.-window from the favorites bar of your Browser
 
 ## How to:
-1. Go to llamalife.co and create a new bookmark (⌘ + D in Chrome/Safari/Firefox)
+1. Go to [llamalife.co](https://llamalife.co) and create a new bookmark (⌘ + D in Chrome/Safari/Firefox)
 2. Right-click on the bookmark and edit the URL
 3. Paste this line of Javascript-code in the URL-field:
 ```javascript
